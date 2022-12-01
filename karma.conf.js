@@ -33,7 +33,6 @@ customLaunchers: {
     flags: ['--no-sandbox']
   }
 },
-
     singleRun: false,
     restartOnFileChange: true
   });
