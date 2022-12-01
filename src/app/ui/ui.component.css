@@ -1,13 +1,13 @@
 .calculator {
     width: 150px;
     text-align: center;
-    color: #999;
+    color: rgb(77, 20, 20);
 }
 
 .result {
     font-size: 3.0em;
     font-weight: bold;
-    color: red;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -21,35 +21,35 @@
 .operator2 {
     font-size: 1.5em;
     font-weight: bold;
-    color: blue;
+    color: rgb(0, 0, 0);
 
 }
 .addition-button {
     cursor: pointer;
-    color: rgb(97, 227, 17);
+    color: rgb(0, 0, 0);
 }
 .substraction-button {
     cursor: pointer;
-    color: rgb(240, 135, 15);
+    color: rgb(0, 0, 0);
 }
 .multiplication-button {
     cursor: pointer;
-    color: rgb(19, 45, 241);
+    color: rgb(0, 0, 0);
 }
 .division-button {
     font-size: large;
     cursor: pointer;
-    color: rgb(219, 235, 46);
+    color: rgb(0, 0, 0);
 }
 .exp-button {
     cursor: pointer;
-    color: rgb(157, 6, 51);
+    color: rgb(0, 0, 0);
 }
 .sqr-button {
     cursor: pointer;
-    color: rgb(16, 185, 190);
+    color: rgb(0, 0, 0);
 }
 .sqrt-button {
     cursor: pointer;
-    color: rgb(163, 14, 209);
+    color: rgb(0, 0, 0);
 }
